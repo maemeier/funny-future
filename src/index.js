@@ -6,7 +6,8 @@ const quotes = [
     name: "my fat cat",
     quote: "Someone in this world is odering chesseburger"
   },
-  { name: "Tim Uncook", quote: "new iphone is coming in 2020" }
+  { name: "Tim Uncook", quote: "new iphone is coming in 2020" },
+  { name: "Santa", quote: "we are going to have 12 months in this year" }
 ];
 
 const quoteBtn = document.querySelector("#quoteBtn");
